@@ -1,0 +1,1 @@
+{"status": "ok", "tick": {"data": [{"price": 0.0454, "amount": 7116.34, "direction": "sell", "ts": 1531273676544, "id": 120324287637523223258}], "id": 12032428763, "ts": 1531273676544}, "ch": "market.socusdt.trade.detail", "ts": 1531273694775}

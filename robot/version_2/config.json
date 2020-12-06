@@ -1,0 +1,77 @@
+{
+  "is_debug": false,
+  "soc": [
+    {
+      "state": 0,
+      "percent": 6.25,
+      "trade_count": 0
+    },
+    {
+      "state": 0,
+      "percent": 12.5,
+      "trade_count": 0
+    },
+    {
+      "state": 0,
+      "percent": 18.75,
+      "trade_count": 0
+    },
+    {
+      "state": 0,
+      "percent": 25.0,
+      "trade_count": 0
+    },
+    {
+      "state": 0,
+      "percent": 18.75,
+      "trade_count": 0
+    },
+    {
+      "state": 0,
+      "percent": 12.5,
+      "trade_count": 0
+    },
+    {
+      "state": 0,
+      "percent": 6.25,
+      "trade_count": 0
+    }
+  ],
+  "wicc": [
+    {
+      "state": 1,
+      "percent": 6.25,
+      "trade_count": 3125
+    },
+    {
+      "state": 1,
+      "percent": 12.5,
+      "trade_count": 6250
+    },
+    {
+      "state": 1,
+      "percent": 18.75,
+      "trade_count": 9250
+    },
+    {
+      "state": 1,
+      "percent": 25.0,
+      "trade_count": 12500
+    },
+    {
+      "state": 1,
+      "percent": 18.75,
+      "trade_count": 9250
+    },
+    {
+      "state": 1,
+      "percent": 12.5,
+      "trade_count": 6250
+    },
+    {
+      "state": 1,
+      "percent": 6.25,
+      "trade_count": 3125
+    }
+  ]
+}
